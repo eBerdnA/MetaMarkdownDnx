@@ -1,10 +1,11 @@
 {
-  "version": "1.0.0-*",
+  "version": "1.0.0-rc1-final",
   "description": "MetaMarkdownDnx Class Library",
-  "authors": [ "Andre" ],
-  "tags": [ "" ],
-  "projectUrl": "",
-  "licenseUrl": "",
+  "authors": [ "Andre Bering" ],
+  "title": "MetaMarkdownDnx",
+  "tags": [ "Markdown, MetaMarkdown" ],
+  "projectUrl": "http://metamarkdown.beansys.de/",
+  "licenseUrl": "http://metamarkdown.beansys.de/LICENSE.txt",
   "frameworks": {
     "net451": { },
     "dotnet5.4": {
