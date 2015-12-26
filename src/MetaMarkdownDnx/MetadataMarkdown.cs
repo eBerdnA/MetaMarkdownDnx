@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MetaMarkdownDnx
+namespace BeAnSys.MetaMarkdownDnx
 {
     public class MetadataMarkdown : Markdown
     {

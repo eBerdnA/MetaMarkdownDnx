@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace MetaMarkdownDnx.UnitTests
+namespace BeAnSys.MetaMarkdownDnx.UnitTests
 {
     public class TestData
     {

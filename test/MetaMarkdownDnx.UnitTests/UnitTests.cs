@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using Xunit;
 
-namespace MetaMarkdownDnx.UnitTests
+namespace BeAnSys.MetaMarkdownDnx.UnitTests
 {
     public class UnitTests
     {
